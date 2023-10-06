@@ -10,8 +10,6 @@ I'm a future Intelligent Computing Engineer who's working to get better everytim
 - 👯 I’m looking to collaborate on data science and AI projects, in order to learn every possible useful thing.
   
 - ⚡ Unsolicited facts:
-  
-  *  I like learning what I need to learn, and what I can't learn, I'm sure I can learn to learn it.
     
   *  I'm currently big on vapor, synth, cyber and retro-wave stuff
     
