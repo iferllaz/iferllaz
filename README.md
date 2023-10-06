@@ -1,6 +1,5 @@
 
-## Hello there 👋
-## I'm Julia Llaz
+# Hello there 👋 I'm Julia Llaz
 
 I'm a future Intelligent Computing Engineer who's working to get better everytime. And I'm pleased to introduce you to my learning playground, but before, I will talk to you a little about myself... 
 
